@@ -8,7 +8,7 @@ class Hello
         
         Console.WriteLine("Hello, C#!");
         Console.WriteLine("New line");
-
+        Console.WriteLine("Second Line");
     }
 
 }
